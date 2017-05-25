@@ -78,7 +78,7 @@ component accessors="true" output="false" hint="Hexadecimal to decimal utilities
 	}
 
 
-	public numeric function hexCharToDecimal(required string char) hint="Converts a hex based character to it's decimal based value (0 - 16)."
+	public numeric function hexCharToDecimal(required string char) hint="Converts a hex based character to it's decimal based value (0 - 15)."
 	{
 		local.value = lcase(arguments.char);
 
