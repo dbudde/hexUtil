@@ -28,7 +28,7 @@
 	Created      : Nov 30, 2016
 	Requirements : ColdFusion 11+
 */
-component accessors="true" output="false" hint="Color utilities component." 
+component accessors="true" output="false" hint="Hexadecimal to decimal utilities conversion component." 
 {
 	/**********************************/
 	/** Properties                   **/
